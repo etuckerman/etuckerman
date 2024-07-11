@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Elliot Tuckerman 👋</h1>
 
 <p align="center">
-  <a href="mailto:elliot.tuckerman@gmail.com"><img src="https://img.shields.io/badge/-Email-ff69b4" alt="Email"></a>
+  <a href="mailto:elliottuckerman99@gmail.com"><img src="https://img.shields.io/badge/-Email-ff69b4" alt="Email"></a>
   <a href="https://linkedin.com/in/elliottuckerman/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5" alt="LinkedIn"></a>
 </p>
 
@@ -21,5 +21,5 @@
 <h2 align="center">💬 Get in Touch</h2>
 
 <p align="center">
-  Want to discuss potential collaborations or projects? Feel free to reach out to me at <a href="mailto:elliot.tuckerman@gmail.com">elliot.tuckerman@gmail.com</a>.
+  Want to discuss potential collaborations or projects? Feel free to reach out to me at <a href="mailto:elliottuckerman99@gmail.com">elliottuckerman99@gmail.com</a>.
 </p>
