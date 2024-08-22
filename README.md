@@ -15,7 +15,7 @@
 
 <h2 align="center">🎓 Courses Completed</h2>
 
-- **Sheffield Hallam University Machine Learning and Heuristics**: Completed with a First Class Bachelor’s with Honours and a 4.0 GPA.
+- **Sheffield Hallam University Computer Science / Machine Learning and Heuristics**: Completed with a First Class Bachelor’s with Honours and a 4.0 GPA.
 - **Hugging Face NLP Course**: Gained extensive knowledge in natural language processing techniques and models.
 - **CS50AI**: Advanced my skills in artificial intelligence through this comprehensive course.
 
