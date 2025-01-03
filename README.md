@@ -40,5 +40,5 @@
 
 <h2 align="center">📄 My Resume</h2>
 <p align="center">
-  <img src="https://github.com/etuckerman/resume/blob/main/v2/resume.png?raw=true" alt="Resume" width="600">
+  <img src="https://github.com/etuckerman/resume/blob/main/v4/resume.png?raw=true" alt="Resume" width="600">
 </p>
